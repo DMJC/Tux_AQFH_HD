@@ -7,7 +7,10 @@ Debian Linux 12.0 Bookworm
 
 ## Dependancies:
 libplib-dev, libplib1
-modprobe snd-pcm-oss for audio on Linux. You might need to ln -s /dev/dsp1 /dev/dsp to get sound working.
+
+## Known Issues:
+- No Pipewire/PulseAudio/Alsa Support.
+- modprobe snd-pcm-oss for audio on Linux. You might need to ln -s /dev/dsp1 /dev/dsp to get sound working.
 
 ## To Do:
 - Modernise Audio Code
