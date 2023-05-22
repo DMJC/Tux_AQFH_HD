@@ -10,7 +10,7 @@ libplib-dev, libplib1
 
 ## Known Issues:
 - No Pipewire/PulseAudio/Alsa Support.
-- modprobe snd-pcm-oss for audio on Linux. You might need to ln -s /dev/dsp1 /dev/dsp to get sound working.
+- modprobe snd-pcm-oss for audio on Linux (ALSA to OSS Wrapper). You might need to ln -s /dev/dsp1 /dev/dsp to get sound working.
 
 ## To Do:
 - Modernise Audio Code
