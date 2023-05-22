@@ -8,5 +8,5 @@ Debian Linux 12.0 Bookworm
 ## Dependancies:
 libplib-dev, ibplib1
 
-## Todo:
+## To Do:
 - Fix Audio Code
