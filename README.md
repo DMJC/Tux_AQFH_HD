@@ -7,6 +7,7 @@ Debian Linux 12.0 Bookworm
 
 ## Dependancies:
 libplib-dev, libplib1
+modprobe snd-pcm-oss for audio on Linux.
 
 ## To Do:
 - Fix Audio Code
