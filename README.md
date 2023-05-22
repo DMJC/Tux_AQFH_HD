@@ -6,7 +6,7 @@ I'd like to modernise Tux: A Quest for Herring and improve some of the texturing
 Debian Linux 12.0 Bookworm
 
 ## Dependancies:
-libplib-dev, ibplib1
+libplib-dev, libplib1
 
 ## To Do:
 - Fix Audio Code
