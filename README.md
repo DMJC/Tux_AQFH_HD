@@ -7,10 +7,10 @@ Debian Linux 12.0 Bookworm
 
 ## Dependancies:
 libplib-dev, libplib1
-modprobe snd-pcm-oss for audio on Linux.
+modprobe snd-pcm-oss for audio on Linux. You might need to ln -s /dev/dsp1 /dev/dsp to get sound working.
 
 ## To Do:
-- Fix Audio Code
+- Modernise Audio Code
 
 ## Media
 ![Screenshot](https://github.com/DMJC/Tux_AQFH_HD/blob/main/doc/snap2tb.png?raw=true)
